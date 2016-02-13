@@ -1,0 +1,7 @@
+/client_secret.json
+*.pyc
+/Adafruit-Raspberry-Pi-Python-Code/
+/Adafruit_7Segment.py
+/Adafruit_I2C.py
+/Adafruit_LEDBackpack.py
+/noSnoozeStarter.py
